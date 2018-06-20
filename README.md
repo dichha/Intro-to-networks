@@ -6,7 +6,7 @@ Introduction to Networking and it's Application (Spring 2017)
 <img src="https://github.com/dichha/Intro-to-networks/blob/master/images/chat-client.jpg" width=600, height="300">
 
 ### hw4
-A server that serves static files and gives error messages according to type of errors. 
+<p>A server that serves static files and gives error messages according to type of errors. </p><br>
 <img src="https://github.com/dichha/Intro-to-networks/blob/master/images/static-page-serving.jpg"
 [video](https://www.youtube.com/watch?v=t5rhUymoVB8)
 
