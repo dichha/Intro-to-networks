@@ -7,6 +7,7 @@ Introduction to Networking and it's Application (Spring 2017)
 
 ### hw4
 A server that serves static files and gives error messages according to type of errors. 
+<img src="https://github.com/dichha/Intro-to-networks/blob/master/images/static-page-serving.jpg"
 [video](https://www.youtube.com/watch?v=t5rhUymoVB8)
 
 ### hw5 
